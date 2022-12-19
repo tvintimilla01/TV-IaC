@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "appServiceAppName2": {
+            "value": "tvinti-assignment-be-dv"
+        },
+        "appServiceAppName4": {
+            "value": "tvinti-assignment-fe-dv"
+        },
+        "appServicePlanName2": {
+            "value": "tvinti-assignment-dv"
+        },
+        "environmentType": {
+            "value": "nonprod"
+        }
+    }
+}
+    
